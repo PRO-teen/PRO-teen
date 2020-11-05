@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on javascript
-- 🌱 I’m currently learning .React.Js
+- 🌱 I’m currently learning React.Js
 - 👯 I’m looking to collaborate on Projects which can go parellel with my skills.
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about ...
