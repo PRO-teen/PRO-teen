@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Twitter](https://twitter.com/dev__Ayush), [LinkedIn](https://Linkedin.com/in/ayush-ydv/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PRO-teen&show_icons=true&hide_border=true)
 Thankyou for visiting my profile.
